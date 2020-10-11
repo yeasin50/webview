@@ -1,7 +1,7 @@
 ## Android WebView 🌐
 ### Convert website to android app
 ---
-</br>
+
 ### Here is the instruction :)
 - Clone or [download] the project as zip then extract
 -  open folder with android studio
