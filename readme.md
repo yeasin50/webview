@@ -1,4 +1,4 @@
-## Android Webview 🌐
+## Android WebView 🌐
 ### Convert website to android app
 ---
 </br>
@@ -6,8 +6,8 @@
 - Clone or [download] the project as zip then extract
 -  open folder with android studio
 -  goto [MainActivity.java] at line: 42 and paste your [website url].
-- To change the splash logo
-  - nevigate to your [splash screen logo] at SplashScreen line 36
+- ### To change the splash screen logo
+  - navigate to your [splash screen logo] at SplashScreen line 36
   - you can change the [duration of splash screen] at SplashScreen line 33
 -  build and run on emulator /device
 -  test and modify as you like
